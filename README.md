@@ -16,4 +16,4 @@ Testing my New Portfolio
 ![Histogram](Assets/Images/histogram-example-2.png)
 
 # Python Notebook
-![Histogram](Sample_python_notebook.ipynb)
+![Python Notebook](Sample_python_notebook.ipynb)
