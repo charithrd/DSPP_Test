@@ -12,5 +12,5 @@ Testing my New Portfolio
 # URL Links
 [URL name](https://www.markdownguide.org/cheat-sheet/) 
 
-#Bring in the Histogram
+# Bring in the Histogram
 ![Histogram](Assets/Images/histogram-example-2.png)
